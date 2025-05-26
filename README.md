@@ -4,4 +4,5 @@ Designed a Full Factorial experiment, fitted an ANOVA model, created interaction
 
 
 Humaira Nafisa Ahmed, Paige Elizabeth Cooper, Kai Shuen Neo, R M Shahbab
+
 Dr. Henry Scharf, Stat 571B, May 2025
