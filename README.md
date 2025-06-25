@@ -8,7 +8,7 @@ Noise levels in different study locations affect student experiences. In relatio
 2. How does the expected noise of each location differ during the morning and afternoon?
 3. Does the expected noise for each location change based on day of the week (beginning, middle, and end)?
 
-With this, an experimental design with a full factorial design, with 3 factors, one with a = 3 levels (location), one with b = 3 levels (day of week), and one with c = 2 levels (time of day), repeated within each of d = 4 blocks (observer), each with n = 2 replicates is conducted. 
+With this, an experimental design with a full factorial design having 3 factors, one with a = 3 levels (location), one with b = 3 levels (day of week), and one with c = 2 levels (time of day), repeated within each of d = 4 blocks (observer), each with n = 2 replicates is created. 
 
 #### Tasks
 1. Design a Full Factorial experiment
