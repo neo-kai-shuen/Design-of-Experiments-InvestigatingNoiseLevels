@@ -1,6 +1,6 @@
 # Design of Experiments
 
-## Investigating Noise Levels in Campus Study Locations
+## Investigating Noise Levels
 
 #### Objectives
 Noise levels in different study locations affect student experiences. In relation to study locations on the University of Arizona campus, an experiment is conducted to address the following research questions:
