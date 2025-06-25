@@ -3,6 +3,12 @@
 ## Investigating Noise Levels in Campus Study Locations
 
 #### Objectives
+Noise levels in different study locations affect student experiences. In relation to study locations on the University of Arizona campus, an experiment is conducted to address the following research questions:
+1. Which study location is the most comfortable in terms of noise and distraction?
+2. How does the expected noise of each location differ during the morning and afternoon?
+3. Does the expected noise for each location change based on day of the week (beginning, middle, and end)?
+
+With this, an experimental design with a full factorial design, with 3 factors, one with a = 3 levels (location), one with b = 3 levels (day of week), and one with c = 2 levels (time of day), repeated within each of d = 4 blocks (observer), each with n = 2 replicates is conducted. 
 
 #### Tasks
 1. Design a Full Factorial experiment
