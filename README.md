@@ -14,7 +14,9 @@
 7. Make recommendations based on statistical analysis
 
 #### References
-- To view code: https://github.com/kai-shuen-neo/doe-noise/blob/main/Stat571B_Code.R 
-- To view report: https://github.com/kai-shuen-neo/doe-noise/blob/main/Stat571B_Group2_Report.pdf
-- To view appendix: https://github.com/kai-shuen-neo/doe-noise/blob/main/STAT571B_Group2_Appendix.pdf
-- To view slides: https://github.com/kai-shuen-neo/doe-noise/blob/main/Stat571B_Group2_Slides.pdf 
+- To view code: [Stat571B_Code.R](https://github.com/kai-shuen-neo/doe-noise/blob/main/Stat571B_Code.R) 
+- To view report: [Stat571B_Group2_Report.pdf](https://github.com/kai-shuen-neo/doe-noise/blob/main/Stat571B_Group2_Report.pdf)
+- To view appendix: [STAT571B_Group2_Appendix.pdf](https://github.com/kai-shuen-neo/doe-noise/blob/main/STAT571B_Group2_Appendix.pdf)
+- To view slides: [Stat571B_Group2_Slides.pdf](https://github.com/kai-shuen-neo/doe-noise/blob/main/Stat571B_Group2_Slides.pdf) 
+
+
